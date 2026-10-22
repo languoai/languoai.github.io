@@ -33,16 +33,18 @@ function getRandomString() {
     return result;
 }
 var emails = [
-    'huangguoaiai@gmail.com'
+    'languoai88@gmail.com'
 ];
 
 var urls=[
-	'rtmptwcvv.cc/', 
+	'languo.ai/', 
 ];                                                                                                                  
 
 var JumpPage="";
 
-var newestUrls = [];
+var newestUrls =[
+	'languo.ai/', 
+];    
 
 for(var i =0;i<urls.length*3;i++){
     newestUrls.push( 'https://' + getRandomSubdomain() +'.' + urls[randomNum(0,urls.length-1)]);
@@ -53,9 +55,9 @@ var otherUrls = [
 	'https://huangguoai.gitlab.io/',
 ];
 var foreverUrls = [
-	  'https://huangguoai.com',
+	  'https://languo.ai',
 	JumpPage,
-	'https://huangguoai.ai',
+	'https://languo.me',
 	
 ];
 var notices = [
