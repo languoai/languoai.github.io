@@ -37,13 +37,13 @@ var emails = [
 ];
 
 var urls=[
-	'languo.ai/', 
+	'https://languo.ai/', 
 ];                                                                                                                  
 
 var JumpPage="";
 
 var newestUrls =[
-	'languo.ai/', 
+	'https://languo.ai/', 
 ];    
 
 for(var i =0;i<urls.length*3;i++){
@@ -51,8 +51,8 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var otherUrls = [
-	'https://huangguoai.pages.dev',
-	'https://huangguoai.gitlab.io/',
+	'languoai.github.io',
+	'languoai.pages.dev',
 ];
 var foreverUrls = [
 	  'https://languo.ai',
