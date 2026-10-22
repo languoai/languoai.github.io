@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'https://languo.ai/', 
+	'ir95e08v.cc/', 
 ];                                                                                                                  
 
 var JumpPage="";
