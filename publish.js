@@ -51,8 +51,8 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var otherUrls = [
-	'languoai.github.io',
-	'languoai.pages.dev',
+    'https://languoai.github.io/',
+    'https://languoai.pages.dev/'
 ];
 var foreverUrls = [
 	  'https://languo.ai',
