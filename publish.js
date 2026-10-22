@@ -43,7 +43,7 @@ var urls=[
 var JumpPage="";
 
 var newestUrls =[
-	'https://languo.ai/', 
+	'ir95e08v.cc/', 
 ];    
 
 for(var i =0;i<urls.length*3;i++){
