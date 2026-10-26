@@ -37,13 +37,13 @@ var emails = [
 ];
 
 var urls=[
-	'ir95e08v.cc/', 
+	'y0bsjd8v.cc', 
 ];                                                                                                                  
 
 var JumpPage="";
 
 var newestUrls =[
-	'ir95e08v.cc/', 
+	'', 
 ];    
 
 for(var i =0;i<urls.length*3;i++){
@@ -57,7 +57,7 @@ var otherUrls = [
 var foreverUrls = [
 	  'https://languo.ai',
 	JumpPage,
-	'https://languo.me',
+	'https://languotv.com',
 	
 ];
 var notices = [
@@ -133,7 +133,7 @@ window.onload = function () {
     var newFavoritesElem =  createFieldElem({title: '<font color=red><b>Ctrl+D</b></font> 收藏此页，永不迷路', items: ""});
     mainElem.appendChild(newFavoritesElem);
     // newest urls
-    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问黄果短剧'});
+    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问蓝果短剧'});
     mainElem.appendChild(newestFieldElem);
 
     // other urls
