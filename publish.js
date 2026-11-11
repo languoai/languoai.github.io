@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'dvysegird.cc', 
+	'tjqkzphpl.cc', 
 ];                                                                                                                  
 
 var JumpPage="";
