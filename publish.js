@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'qartpbza.cc', 
+	'xrcrryxti.cc', 
 ];                                                                                                                  
 
 var JumpPage="";
