@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'kcexpvzm.cc', 
+	'mlcdcoraa.cc', 
 ];                                                                                                                  
 
 var JumpPage="";
