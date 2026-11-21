@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'mlcdcoraa.cc', 
+	'hawtpmjpx.cc', 
 ];                                                                                                                  
 
 var JumpPage="";
