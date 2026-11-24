@@ -55,7 +55,7 @@ var otherUrls = [
     'https://languoai.pages.dev/'
 ];
 var foreverUrls = [
-	  'https://languo.ai',
+	  'https://languodrama.com',
 	JumpPage,
 	'https://languotv.com',
 	
