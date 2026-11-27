@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'oclwonpel.cc', 
+	'ezqrhmrs.cc', 
 ];                                                                                                                  
 
 var JumpPage="";
